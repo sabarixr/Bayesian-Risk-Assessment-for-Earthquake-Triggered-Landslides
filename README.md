@@ -1,0 +1,1 @@
+# Bayesian-Risk-Assessment-for-Earthquake-Triggered-Landslides
